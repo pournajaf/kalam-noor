@@ -1,0 +1,10 @@
+{
+  "id": "kalam-noor",
+  "name": "Kalam Noor",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Quran research tool with diacritics-free search, offline database with 5 Persian translations, and clean verse insertion.",
+  "author": "POURNAJAF",
+  "authorUrl": "https://dastyarstudio.ir/",
+  "isDesktopOnly": false
+}
